@@ -1,0 +1,29 @@
+/* tan -- #BC8F8F
+silver --  #B0C4DE
+light blue --  	#ADD8E6
+slate blue --  #483d8b
+burgundy -- #800020 */
+
+.body-cover {
+  background-color: #ADD8E6;
+}
+
+.h1 {
+  font-size: 48px;
+  text-align: center;
+  color: #800020;
+  font-family: 'Great Vibes', cursive;
+}
+
+.omc {
+    padding:10px;
+    border:10px solid #4682b4;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.container {
+  width: 80%;
+}
