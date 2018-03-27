@@ -1,0 +1,13 @@
+.container {
+  width: 80%;
+}
+
+/* tan -- #BC8F8F
+silver --  #B0C4DE
+light blue --  	#ADD8E6
+slate blue --  #4682b4
+burgundy -- #800020 */
+
+.body-cover {
+  background-color: #BC8F8F;
+}
