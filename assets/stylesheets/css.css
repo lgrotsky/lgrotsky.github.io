@@ -9,7 +9,7 @@ burgundy -- #800020 */
 }
 
 .h1 {
-  font-size: 48px;
+  font-size: 60px;
   text-align: center;
   color: #800020;
   font-family: 'Great Vibes', cursive;
@@ -36,6 +36,7 @@ ul.navbar {
 }
 
 ul.navbar li a {
+  font-size: 20px;
   padding: 20px;
   text-decoration: none;
   color: #800020;
@@ -43,7 +44,8 @@ ul.navbar li a {
 }
 
 ul.navbar li a:hover {
-color: #B0C4DE;
+  font-size: 20px;
+  color: #B0C4DE;
 background-color: #800020;
 }
 
