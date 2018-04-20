@@ -1,0 +1,12 @@
+.body-cover {
+  background-color: #C4C4C4;
+}
+
+.coverpic {
+    padding:10px;
+    border:8px solid red;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
