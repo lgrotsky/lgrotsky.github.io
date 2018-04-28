@@ -9,10 +9,11 @@ burgundy -- #800020 */
 }
 
 .h1 {
-  font-size: 60px;
+  font-size: 80px;
   text-align: center;
   color: #800020;
   font-family: 'Great Vibes', cursive;
+  padding-bottom: 25px;
 }
 
 .omc {
@@ -26,4 +27,21 @@ burgundy -- #800020 */
 
 .container {
   width: 40%;
+}
+
+.a {
+  font-size: 20px;
+  text-align: center;
+  color: #800020;
+  border: 3px solid #4682b4;
+  background-color: #B0C4DE;
+  border-radius: 8px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.row {
+
 }
